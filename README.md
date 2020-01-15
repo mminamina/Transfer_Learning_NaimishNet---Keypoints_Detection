@@ -1,4 +1,4 @@
-# Transfer Learning Project: Facial Keypoints_Detection
+# Transfer Learning Project: Facial Keypoints Detection
 Project 1: Facial Keypoints Detection with **NaimishNet**
 ### Project Experience
 This is the version with **NaimishNet** for my first computer vision project which allows me to apply deep learning computer vision architectures (using **Pytorch**) to build a facial keypoint detection system for
