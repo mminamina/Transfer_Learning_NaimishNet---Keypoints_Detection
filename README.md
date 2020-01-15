@@ -37,4 +37,4 @@ For project instructions, please refer to https://github.com/udacity/P1_Facial_K
 - NaimishNet seems to generate more accurate keypoints compared to my original work without TransferLearning
 - Please refer to https://github.com/mminamina/Udacity_ComputerVision_PeerReviewed_Project---Facial_Keypoints_Detection
 
-
+LICENSE: This project is licensed under the terms of the MIT license.
