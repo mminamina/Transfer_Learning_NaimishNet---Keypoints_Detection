@@ -26,7 +26,7 @@ BatchSize, Epochs, Loss & Optimization Functions(using **GPU**)
 NaimishNet with four **Conv2D** layers, **ReLU** Activation, **MaxPooling**+**BatchNorm** in every layer, three **fully-connected** layers, and **Dropout**  to prevent overfitting.
 
 ### Worklist
-For instructions, please refer to https://github.com/udacity/P1_Facial_Keypoints
+For project instructions, please refer to https://github.com/udacity/P1_Facial_Keypoints
 
 ### Files in Order
 - models.py;
