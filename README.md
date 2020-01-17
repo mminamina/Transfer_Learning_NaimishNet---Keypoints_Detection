@@ -37,4 +37,18 @@ For project instructions, please refer to https://github.com/udacity/P1_Facial_K
 - NaimishNet seems to generate more accurate keypoints compared to my original work without TransferLearning
 - Please refer to https://github.com/mminamina/Udacity_ComputerVision_PeerReviewed_Project---Facial_Keypoints_Detection
 
+### Additional Helpful Resources
+- https://arxiv.org/pdf/1603.07285.pdf
+- http://cs231n.stanford.edu/slides/2016/winter1516_lecture11.pdf
+- http://cs231n.stanford.edu/reports/2017/pdfs/300.pdf
+- https://heartbeat.fritz.ai/5-regression-loss-functions-all-machine-learners-should-know-4fb140e9d4b0
+- https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
+- https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf
+- https://arxiv.org/pdf/1512.03385.pdf
+
+
+#### Packages Used
+Python 3.6, Pytorch
+
+
 LICENSE: This project is licensed under the terms of the MIT license.
