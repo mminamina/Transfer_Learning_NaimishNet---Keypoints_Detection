@@ -48,7 +48,7 @@ For project instructions, please refer to https://github.com/udacity/P1_Facial_K
 
 
 #### Packages 
-Python 3.6, Pytorch
+Python, Pytorch
 
 
 LICENSE: This project is licensed under the terms of the MIT license.
